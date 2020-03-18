@@ -1,0 +1,8 @@
+/* This file is for your main application css. */
+
+@import "./settings.scss";
+@import "foundation";
+@include foundation-everything;
+
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "fontawesome";
