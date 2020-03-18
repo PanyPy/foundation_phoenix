@@ -1,0 +1,28 @@
+<div class="grid-x">
+  <div class="cell large-12">
+    <h1>Custom color palette</h1>
+  </div>
+</div>
+<div class="grid-x">
+  <div class="cell large-5">
+    <h4>Standard palette:</h4>
+    <ul>
+      <li><a href="#" class="button primary">primary button</a></li>
+      <li><a href="#" class="button secondary">secondary button</a></li>
+      <li><a href="#" class="button success">success button</a></li>
+      <li><a href="#" class="button warning">warning button</a></li>
+      <li><a href="#" class="button alert">alert button</a></li>
+    </ul>
+  </div>
+  <div class="cell large-5">
+    <h4>Custom palette:</h4>
+    <ul>
+      <li><a href="#" class="button purple">purple button</a></li>
+      <li><a href="#" class="button cyan">cyan button</a></li>
+      <li><a href="#" class="button orange">orange button</a></li>
+      <li><a href="#" class="button brown">brown button</a></li>
+      <li><a href="#" class="button black">black button</a></li>
+      <li><a href="#" class="button super-special">special button</a></li>
+    </ul>
+  </div>
+</div>
